@@ -1,1 +1,1 @@
-![Alt Image](tajamulkhann/Natural-Language-Processing/NLP%Practicals/Images/Blue%Professional%Extensive%Mind%Map%Graph.png)
+![Alt Image](https://github.com/tajamulkhann/Natural-Language-Processing/blob/main/NLP%20Practicals/Images/Blue%20Professional%20Extensive%20Mind%20Map%20Graph.png?raw=true)
