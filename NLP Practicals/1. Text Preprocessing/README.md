@@ -1,0 +1,1 @@
+![Alt Image](tajamulkhann/Natural-Language-Processing/NLP%Practicals/Images/Blue%Professional%Extensive%Mind%Map%Graph.png)
