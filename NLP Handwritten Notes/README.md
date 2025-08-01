@@ -1,8 +1,8 @@
-NLP Topic Covered
+## NLP Topic Covered
 
 Text Preprocessing 
 
 Text Vectorization
-BOW
-TFIDF
-Word2Vec
+- BOW
+- TFIDF
+- Word2Vec
