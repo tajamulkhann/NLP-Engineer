@@ -1,3 +1,5 @@
 ## NLP Topic Covered
 
-<img src="image.png" alt="alt text" width="300"/>
+<p align="center">
+  <img src="image.png" alt="Preview" width="300">
+</p>
